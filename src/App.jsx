@@ -1,10 +1,10 @@
-
+import Hero from "./sections/Hero.jsx"
 function App() {
   
 
   return (
     <>
-      <h1>helooooooooooooooooo</h1>
+    <Hero></Hero>
     </>
   )
 }
